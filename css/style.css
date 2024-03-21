@@ -1,0 +1,147 @@
+/* body */
+body {
+  font-family: "Roboto", sans-serif;
+  color: #2e2f42;
+}
+h1,
+h2,
+h3 {
+  font-family: "Raleway", sans-serif;
+}
+h1 {
+  font-size: 56px;
+  line-height: 107%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+}
+/* header */
+.nav .link {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 117%;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.nav .list {
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+}
+.web {
+  color: #4d5ae5;
+}
+link {
+  color: #2e2f42;
+}
+link:hover {
+  color: #4d5ae5;
+}
+link:active {
+  color: #4d5ae5;
+}
+.address .link {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+/* banner */
+.section-banner {
+  background-color: #2e2f42;
+  width: 1440px;
+  height: 600px;
+}
+.btm {
+  background-color: #4d5ae5;
+  color: #ffffff;
+  border-radius: 4px;
+  padding: 16px 32px;
+  width: 169px;
+  height: 56px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+}
+/* main  */
+/* section Advantages */
+.h-adv {
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+}
+.p-adv {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+/* section Our Team */
+.section-our-team {
+  width: 1440px;
+  height: 732px;
+  background-color: #f4f4fd;
+}
+.our-team {
+  font-size: 36px;
+  line-height: 111%;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+.name-team {
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+.profession {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+}
+/* section Our Portfolio */
+.our-portfolio {
+  font-size: 36px;
+  line-height: 111%;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+.name-portfolio {
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+}
+.text-portfolio {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+/* footer */
+.footer {
+  width: 1440px;
+  height: 312px;
+  background: #2e2f42;
+}
+.footer .link {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 117%;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #f4f4fd;
+}
+.footer .web {
+  color: #4d5ae5;
+}
+.text-footer {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
