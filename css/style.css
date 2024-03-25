@@ -45,12 +45,30 @@ link:hover {
 link:active {
   color: #404bbf;
 }
-.address .link {
+.address .a-link {
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
+  font-style: normal;
+}
+.a-link :hover{
+  color: #404bbf;
+}
+.a-link :focus{
+  color: #404bbf;
+}
+.list .hed-link{
+  color: #2e2f42;
+}
+.list .hed-link :hover{
+  color: #404bbf;
+}
+.list .hed-link :focus{
+  color: #404bbf;
+}
+.address{
   font-style: normal;
 }
 /* banner */
