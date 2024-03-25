@@ -68,6 +68,7 @@ link:active {
   font-size: 20px;
   line-height: 120%;
   letter-spacing: 0.02em;
+  color:  #2e2f42;
 }
 .p-adv {
   font-weight: 400;
@@ -85,6 +86,8 @@ link:active {
   line-height: 111%;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 .name-team {
   font-size: 20px;
@@ -100,12 +103,20 @@ link:active {
   text-align: center;
   color: #434455;
 }
+.team-img{
+  background-color: #FFFFFF;
+  font-weight: 500;
+  color: #2e2f42;
+}
 /* section Our Portfolio */
 .our-portfolio {
   font-size: 36px;
   line-height: 111%;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+  font-weight: 500;
 }
 .name-portfolio {
   font-size: 20px;
@@ -130,6 +141,7 @@ link:active {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
 }
 .footer .studio {
   color: #f4f4fd;
