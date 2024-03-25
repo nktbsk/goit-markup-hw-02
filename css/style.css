@@ -60,6 +60,16 @@ link:active {
 .btm {
   background-color: #4d5ae5;
   color: #ffffff;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+}
+.btm :hover{
+  background-color: #404bbf;
+}
+.btm :focus{
+ background-color: #404bbf;
 }
 /* main  */
 /* section Advantages */
@@ -94,6 +104,7 @@ link:active {
   line-height: 120%;
   letter-spacing: 0.02em;
   text-align: center;
+  font-weight: 500;
 }
 .profession {
   font-weight: 400;
@@ -122,6 +133,8 @@ link:active {
   font-size: 20px;
   line-height: 120%;
   letter-spacing: 0.02em;
+  font-weight: 500;
+  color: #2e2f42;
 }
 .text-portfolio {
   font-weight: 400;
