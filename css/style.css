@@ -23,23 +23,27 @@ h1 {
   line-height: 117%;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  font-family: "Raleway", sans-serif;
+  color:  #4d5ae5;
 }
 .nav .list {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
+  font-weight: 500;
+  color: #2e2f42;
 }
-.web {
-  color: #4d5ae5;
+.studio {
+  color: #2e2f42;
 }
 link {
   color: #2e2f42;
 }
 link:hover {
-  color: #4d5ae5;
+  color: #404bbf;
 }
 link:active {
-  color: #4d5ae5;
+  color: #404bbf;
 }
 .address .link {
   font-weight: 400;
@@ -47,6 +51,7 @@ link:active {
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
+  font-style: normal;
 }
 /* banner */
 .section-banner {
@@ -124,10 +129,10 @@ link:active {
   line-height: 117%;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #f4f4fd;
-}
-.footer .web {
   color: #4d5ae5;
+}
+.footer .studio {
+  color: #f4f4fd;
 }
 .text-footer {
   font-weight: 400;
