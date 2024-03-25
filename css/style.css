@@ -1,7 +1,8 @@
 /* body */
 body {
   font-family: "Roboto", sans-serif;
-  color: #2e2f42;
+  color: #434455;
+  background-color: #FFFFFF;
 }
 h1,
 h2,
@@ -50,21 +51,15 @@ link:active {
 /* banner */
 .section-banner {
   background-color: #2e2f42;
-  width: 1440px;
-  height: 600px;
 }
 .btm {
   background-color: #4d5ae5;
   color: #ffffff;
-  border-radius: 4px;
-  padding: 16px 32px;
-  width: 169px;
-  height: 56px;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 }
 /* main  */
 /* section Advantages */
 .h-adv {
+  font-weight: 500;
   font-size: 20px;
   line-height: 120%;
   letter-spacing: 0.02em;
@@ -78,8 +73,6 @@ link:active {
 }
 /* section Our Team */
 .section-our-team {
-  width: 1440px;
-  height: 732px;
   background-color: #f4f4fd;
 }
 .our-team {
@@ -123,8 +116,6 @@ link:active {
 }
 /* footer */
 .footer {
-  width: 1440px;
-  height: 312px;
   background: #2e2f42;
 }
 .footer .link {
