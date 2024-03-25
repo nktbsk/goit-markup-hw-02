@@ -53,27 +53,31 @@ link:active {
   color: #434455;
   font-style: normal;
 }
-.a-link :hover{
+.a-link:hover{
   color: #404bbf;
 }
-.a-link :focus{
+.a-link:focus{
   color: #404bbf;
 }
 .list .hed-link{
   color: #2e2f42;
 }
-.list .hed-link :hover{
+.list .hed-link:hover{
   color: #404bbf;
 }
-.list .hed-link :focus{
+.list .hed-link:focus{
   color: #404bbf;
 }
 .address{
   font-style: normal;
 }
+/* main  */
 /* banner */
 .section-banner {
   background-color: #2e2f42;
+}
+.hed{
+
 }
 .btm {
   background-color: #4d5ae5;
@@ -83,13 +87,12 @@ link:active {
   letter-spacing: 0.04em;
   cursor: pointer;
 }
-.btm :hover{
+.btm:hover{
   background-color: #404bbf;
 }
-.btm :focus{
+.btm:focus{
  background-color: #404bbf;
 }
-/* main  */
 /* section Advantages */
 .h-adv {
   font-weight: 500;
