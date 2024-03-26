@@ -7,7 +7,7 @@ body {
 h1,
 h2,
 h3 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif; 
 }
 h1 {
   font-size: 56px;
@@ -97,7 +97,7 @@ link:active {
 .h-adv {
   font-weight: 500;
   font-size: 20px;
-  line-height: 120%;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color:  #2e2f42;
 }
@@ -148,7 +148,7 @@ link:active {
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
-  font-weight: 500;
+  font-weight: 700;
 }
 .name-portfolio {
   font-size: 20px;
