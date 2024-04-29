@@ -2,12 +2,12 @@
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 h1,
 h2,
 h3 {
-  font-family: "Roboto", sans-serif; 
+  font-family: "Roboto", sans-serif;
 }
 h1 {
   font-size: 56px;
@@ -24,7 +24,7 @@ h1 {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   font-family: "Raleway", sans-serif;
-  color:  #4d5ae5;
+  color: #4d5ae5;
 }
 .nav .list {
   font-size: 16px;
@@ -53,22 +53,22 @@ link:active {
   color: #434455;
   font-style: normal;
 }
-.a-link:hover{
+.a-link:hover {
   color: #404bbf;
 }
-.a-link:focus{
+.a-link:focus {
   color: #404bbf;
 }
-.list .hed-link{
+.list .hed-link {
   color: #2e2f42;
 }
-.list .hed-link:hover{
+.list .hed-link:hover {
   color: #404bbf;
 }
-.list .hed-link:focus{
+.list .hed-link:focus {
   color: #404bbf;
 }
-.address{
+.address {
   font-style: normal;
 }
 /* main  */
@@ -76,8 +76,7 @@ link:active {
 .section-banner {
   background-color: #2e2f42;
 }
-.hed{
-
+.hed {
 }
 .btm {
   background-color: #4d5ae5;
@@ -87,11 +86,11 @@ link:active {
   letter-spacing: 0.04em;
   cursor: pointer;
 }
-.btm:hover{
+.btm:hover {
   background-color: #404bbf;
 }
-.btm:focus{
- background-color: #404bbf;
+.btm:focus {
+  background-color: #404bbf;
 }
 /* section Advantages */
 .h-adv {
@@ -99,7 +98,7 @@ link:active {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color:  #2e2f42;
+  color: #2e2f42;
 }
 .p-adv {
   font-weight: 400;
@@ -135,8 +134,8 @@ link:active {
   text-align: center;
   color: #434455;
 }
-.team-img{
-  background-color: #FFFFFF;
+.team-img {
+  background-color: #ffffff;
   font-weight: 500;
   color: #2e2f42;
 }
